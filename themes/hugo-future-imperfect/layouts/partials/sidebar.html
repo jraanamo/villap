@@ -74,6 +74,30 @@
     </div>
   </section>
 
+  
+  
+  <!-- Pinterest Profile -->
+  <section>
+    <header>
+        <h3>
+          Pinterest
+        </h3>
+      </header>
+    <a data-pin-do="embedUser" data-pin-board-width="410" data-pin-scale-height="800" data-pin-scale-width="120" href="https://www.pinterest.com/villapasila"></a>
+  </section>
+
+
+  <!-- InstaWidget -->
+  <section>    
+    <header>
+        <h3>
+          Instagram
+        </h3>
+      </header>
+<a href="https://instawidget.net/v/user/villapasila" id="link-a5664584a41cd53038ab1a59c959a728d20d81f07949ffc46f678544c7da0be2">@villapasila</a>
+<script src="https://instawidget.net/js/instawidget.js?u=a5664584a41cd53038ab1a59c959a728d20d81f07949ffc46f678544c7da0be2&width=410px"></script>
+  </section>
+
   <!-- This if statement only applies if someone goes to the /categories url -->
   <!-- Otherwise this section is shown for all other links -->
   {{ if ne ($.Scratch.Get "showCategories") false }}
@@ -108,6 +132,7 @@
     </section>
   {{ end }}
 
+
   <!-- About -->
   {{ with .Site.Params.intro.about }}
     <section id="mini-bio">
@@ -117,15 +142,6 @@
     </section>
   {{ end }}
 
-  <!-- Pinterest Profile -->
-  <section>
-    <header>
-        <h3>
-          Pinterest
-        </h3>
-      </header>
-    <a data-pin-do="embedUser" data-pin-board-width="410" data-pin-scale-height="800" data-pin-scale-width="120" href="https://www.pinterest.com/villapasila"></a>
-  </section>
 
   <!-- Footer -->
   <section id="footer">
