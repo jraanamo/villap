@@ -30,3 +30,23 @@ Sitkeästi ja järjestelmällisesti työ kuitenkin eteni ja  lopulta vähän yli
 Rakennuksen purkaminen onnistui siis aivan loistavasti ja toivottavaa on että rakentaminen menisi edes sinnepäin. Tehtiin me kyllä oikein paperi purusta, vastuista ja omistuksen siirtymisestä mutta mitään ongelmia ei ollut kun purkaja oli kokenut ja pystyi tekemään työtä täyspäiväisesti. Kannattaa muuten muistaa että rakennusvalvonta haluaa todistukset siitä mihin purkujäte on päätynyt. 
 
 Purkupaikan viereen laitettiin TimeLapse kamera jotta on sitten mukava myöhemmin lämpimässä katsella miten työ eteni :)
+
+---
+
+### Purkupäivä 6.
+
+{{< youtube RdOIsB6DeLk >}}
+
+---
+
+## Purkupäivä 7.
+
+{{< youtube _doUVItD6nc >}}
+
+---
+
+## Purkupäivä 8.
+
+{{< youtube 2yxVi8ilXfI >}}
+
+---
