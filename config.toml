@@ -66,7 +66,7 @@ DefaultContentLanguage = "fi"
 [params.intro]
   header    = "Villa Pasila"
 
-  paragraph = "Musta talo kalliolla"
+  paragraph = "Musta talo kalliolle"
 
   about     = "Tavoittena rakentaa musta, 150m2 puurakenteinen talo, tukevasti suoraan kalliolle - ja vielä kohtuu budjetilla. Runko hankitaan suurelementteinä mutta muuten tehdään pitkälti itse. Tai tälläinen se oli vielä alussa ajatus..."
 
