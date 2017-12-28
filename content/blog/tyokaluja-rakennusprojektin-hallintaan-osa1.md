@@ -2,8 +2,7 @@
 author = "vp"
 categories = ["sovellukset", "projektinhallinta"]
 date = "2017-12-28T18:30:19+00:00"
-description = ""
-draft = true
+description = "Työkaluja Rakennusprojektin hallintaan"
 featured = "trello-esimerkki.png"
 featuredalt = "Projektinhallinta työkalut"
 featuredpath = "date"
