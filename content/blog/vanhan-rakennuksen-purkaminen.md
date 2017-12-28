@@ -1,5 +1,5 @@
 +++
-author = "Theme author"
+author = "VP"
 categories = ["purku"]
 date = "2017-12-27T00:00:00Z"
 description = "Vanhalle hirsirakennukselle uusi elämä kierrättämällä"
@@ -13,7 +13,7 @@ type = "post"
 +++
 ## Kunnosta vanha vai rakenna uusi?
 
-Vanhassa höylähirsi rakennuksessa oli tietysti jo ihan käytettävät 53m2. Ongelma vaan on jos se ei ole oikein tarpeeksi tai haluat käyttää rakennusta ympäri vuoden ilman että istut takan edessä 24/7. Toki vanhan kylkeen olisi voinut rakentaa jatko-osan, tai vaikka ihan erillisen uuden rakennuksen ja muuttaa vanhan vaikka saunaksi.  Silti, kun rupeat laskemaan mitä uuden tekeminen maksaa niin hintaero 100m2 ja 150m2 välillä ei ole suuri. Aina tarvitaan kuitenkin luvat, vähintään neljä seinää ja katto, vedet, sähköt yms. yms. elikkä lopputulos meidän kohdalla oli että on halvempi purkaa vanha ja tehdä kokonaan uusi.
+Vanhassa höylähirsi rakennuksessa oli tietysti jo ihan käytettävät 53m2. Ongelma vaan on jos se ei ole oikein tarpeeksi tai haluat käyttää rakennusta ympäri vuoden ilman että istut takan edessä 24x7. Toki vanhan kylkeen olisi voinut rakentaa jatko-osan, tai vaikka ihan erillisen uuden rakennuksen ja muuttaa vanhan vaikka saunaksi.  Silti, kun rupeat laskemaan mitä uuden tekeminen maksaa niin hintaero 100m2 ja 150m2 välillä ei ole suuri. Aina tarvitaan kuitenkin luvat, vähintään neljä seinää ja katto, vedet, sähköt yms. yms. elikkä lopputulos meidän kohdalla oli että on halvempi purkaa vanha ja tehdä kokonaan uusi.
 
 ## Facebook avuksi
 
@@ -33,7 +33,7 @@ Purkupaikan viereen laitettiin TimeLapse kamera jotta on sitten mukava myöhemmi
 
 ---
 
-### Purkupäivä 6.
+## Purkupäivä 6.
 
 {{< youtube RdOIsB6DeLk >}}
 
@@ -50,3 +50,40 @@ Purkupaikan viereen laitettiin TimeLapse kamera jotta on sitten mukava myöhemmi
 {{< youtube 2yxVi8ilXfI >}}
 
 ---
+
+## Purkupäivä 9.
+
+{{< youtube POEOgtb2AUs >}}
+
+---
+
+## Purkupäivä 10.
+
+{{< youtube AGar304Oavc >}}
+
+---
+
+## Purkupäivä 12.
+
+{{< youtube MSX5Nj2WYxk >}}
+
+---
+
+## Purkupäivä 13.
+
+{{< youtube gkmR-xTHnyw >}}
+
+---
+
+
+## Purkupäivä 14.
+
+{{< youtube c6BdjZmDCiM >}}
+
+---
+
+
+
+
+
+

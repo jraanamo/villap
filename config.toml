@@ -5,7 +5,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
-googleAnalytics = ""
+googleAnalytics = "UA-111682717-1"
 pluralizeListTitles = false
 DefaultContentLanguage = "fi"
 
