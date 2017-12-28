@@ -75,12 +75,20 @@ Purkupaikan viereen laitettiin TimeLapse kamera jotta on sitten mukava myöhemmi
 
 ---
 
-
 ## Purkupäivä 14.
 
 {{< youtube c6BdjZmDCiM >}}
 
 ---
+
+---
+
+## Perustukset
+
+Kevytsoraharkot oli onneksi melko löyhästi kiinni mutta tuli siinä lämmin kuitenkin.
+
+{{< youtube ai64ftQDxuo >}}
+
 
 
 
