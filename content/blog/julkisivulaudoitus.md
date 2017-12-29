@@ -35,7 +35,7 @@ Ei muuten ole Teknoksen sponssaama juttu. Kuva on otettu sisällä (kun ei täss
 
 **Nordic Matt** on niinikään nimensä veroinen ja on todella matta pintainen. Mielestäni se on jopa muovisen ja elottoman näköinen. Voisi kuvitella että kyseessä on puujäljitelmä. En kyllä itse tällä vetäisi koko seinää mutta ehkä smyygilaudat tai muut listat.
 
-**Woodex Aqua Classic** jättää puusta eniten vivahteita näkyviin ja tekee pinnasta selkeästi vivahteikkaimman näköisen. Onko jopa liian eloisa on sitten katsojasta kiinni. 
+**Woodex Aqua Classic** jättää puusta eniten vivahteita näkyviin ja tekee pinnasta selkeästi kirjavamman. Onko jopa liian eloisa on sitten katsojasta kiinni. 
 
 Oleellinen kysymys on sitten se mikä on huoltoväli, kustannus viivan alla per 20 vuotta ja minkä suojan käsittely antaa puulle. Tätä pitää toki pohtia myös rakennuspaikan näkökulmasta. Meillä se valitettavasti sattuu olemaan ehkä pahin mahdollinen eli rannikkoilmasto. Vesi tulee kovan tuulen mukana vaakasuoraan ja mereltä hyökkäävä sumu tuntuu kiihdyttävän maalipinnan kulumista. Olisiko siinä sitten suolavettä mukana, en tiedä, en ole Pekka Pouta. 
 
