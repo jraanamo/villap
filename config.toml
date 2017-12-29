@@ -1,6 +1,6 @@
-baseurl = "/"
+baseurl = "https://www.villapasila.com/"
 languageCode = "fi"
-title = "Villa Pasila"
+title = "Villa Pasila - Musta talo kalliolle"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
