@@ -40,6 +40,9 @@
 - id: categoriesTitle
   translation: "Kategoriat"
 
+- id: categoryTitle
+  translation: "Kategoria"
+
 - id: searchTitle
   translation: "Hae"
 
@@ -72,3 +75,9 @@
 
 - id: learnMore
   translation: "Lue lisää"
+
+- id: previousPage
+  translation: "Edellinen sivu"
+
+- id: nextPage
+  translation: "Seuraava sivu"
