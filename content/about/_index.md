@@ -3,6 +3,8 @@ title = "Projektista"
 date = "2017-12-27"
 +++
 
+![](/img/main/julkkari.png)
+
 ## Tukevasti kalliolle
 
 Tavoittena rakentaa musta, 150m2 puurakenteinen talo, tukevasti suoraan kalliolle ja vielä kohtuu budjetilla. Runko hankitaan suurelementteinä mutta muuten tehtäisi pitkälti itse. Pitkästä tavarastakin olisi voinut tehdä mutta en oikeen usko että olisi enään aika ja hermot riittänyt. Lisäksi kun katselee mitä puutavara nykyään maksaa niin alkaa nuo runkopaketit kiinnostamaan. 
@@ -13,4 +15,4 @@ Ensimmäinen haaste mahtaa tulla tuosta kallioperustuksesta. Nykyään kaikki pe
 
 Että saas nyt nähdä miten paljon tässä projektin edetessä pystyy pitämään omista valinnoista kiinni, päättääkö ne asiat yleinen mielipide vai budjetti meidän puolesta?
 
-![](/img/main/kallio_ja_sammal.jpg)
+![Maasto](/img/main/kallio_ja_sammal.jpg)
