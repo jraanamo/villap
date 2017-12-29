@@ -2,7 +2,7 @@
 author = "VP"
 categories = ["suunnittelu", "julkisivu", "maalaus", "panelointi"]
 date = "2017-12-29T00:00:00Z"
-description = "Julkisivulaudoituksen ideointia"
+description = "Julkisivulaudoituksen pähkimistä"
 featured = "panelointi-musta.png"
 featuredalt = "Pic 3"
 featuredpath = "date"
