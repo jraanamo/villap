@@ -1,3 +1,5 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.9.0/moment.min.js"></script>
+
 <!-- Sidebar -->
 <section id="sidebar">
 
@@ -15,8 +17,9 @@
     {{ end }}
     {{ with .Site.Params.intro }}
       <header>
-        <h2>{{ .header }}</h2>
+        <h2>{{ .header }} </h2>
         <p>{{ .paragraph | safeHTML }}</p>
+        <p>Rakennuspäivä <b id="buildDay">#</b></p>
       </header>
     {{ end }}
     {{ if .Site.Params.socialAppearAtTop }}
@@ -179,3 +182,10 @@
     </p>
   </section>
 </section>
+
+<script type="text/javascript">
+var a = moment('24/7/2017', 'DD/MM/YYYY');
+var b = moment(new Date());
+var days = b.diff(a, 'days');
+document.getElementById("buildDay").innerHTML = days;
+</script>
