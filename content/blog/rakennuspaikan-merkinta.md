@@ -33,7 +33,7 @@ Pinnan tekeminen käsin on aika kälystä puuhaa ja jos sitä olisi yhtään ene
 
 Itse perustuksista tuli suhteellisen hyvä kuva vaikka tilavuutta en ole vielä saanut automaattisesti ulos. SketchUp:ssa on se pieni ongelma että jos yksi pieni viiva ei kohtaa oikeaa pintaa jossain nurkassa niin silloin koko maailma saattaa romahtaa ja aikaa rupeaa palamaan.
 
-<div class="sketchfab-embed-wrapper"><iframe width="1024" height="480" src="https://sketchfab.com/models/f318956453e74cde852c014b87afcecf/embed?autostart=1&amp;preload=1" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+<div class="sketchfab-embed-wrapper"><iframe width="800" height="480" src="https://sketchfab.com/models/f318956453e74cde852c014b87afcecf/embed?autostart=1&amp;preload=1" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
     <a href="https://sketchfab.com/models/f318956453e74cde852c014b87afcecf?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">VillaPasila - Foundation</a>
