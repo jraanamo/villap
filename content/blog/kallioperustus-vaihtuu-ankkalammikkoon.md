@@ -37,7 +37,7 @@ Nakissa oli kyllä vähän outo sivumaku. Ensin epäilin tämän olevan joku sin
 Hyvää edistystä tapahtui mutta jonkun verran jäi vielä tekemättä jottaa maaurakoitsijat pääsevät jatkamaan ja jotta koko rakennusalue saadaan siivottua maa-aineksista. 
 
 
-
+<div class="fb-comments" data-href="https://www.villapasila.com/blog/kallioperustus-vaihtuu-ankkalammikkoon/" data-width="800" data-numposts="5"></div>
 
 
 

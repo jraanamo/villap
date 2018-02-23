@@ -121,3 +121,5 @@ Kuten sanottua Trello:lle on paljon kilpailua. Muutamia muita vaihtoehtoja tehd�
 
 Mikä on **sinun** valintasi? Onko sinulla parempi, nopeampi, helpompi tapa? Kerro ihmeessä!!
 
+<div class="fb-comments" data-href="https://www.villapasila.com/blog/tyokaluja-rakennusprojektin-hallintaan-osa1/" data-width="800" data-numposts="5"></div>
+

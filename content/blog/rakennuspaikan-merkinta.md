@@ -48,7 +48,7 @@ Itse perustuksista tuli suhteellisen hyvä kuva vaikka tilavuutta en ole vielä 
 Nyt sitten saisi kunnan mittamiehet tulla paikalla ja merkata rakennuksen paikan ja korkoaseman niin päästään pikkuhiljaa aloittamaan perustusten teko. Samaa aikaan pitää ruveta suunnittelemaan jätevesijärjestelmän ja lämpökaivon tarkempaaa sijoitusta. Sekä sitä, miten sokkeli ja rakennus istuu maisemaan. Sitä varten pitäisi saada 3d-malli talosta sekä tontista valmiiksi. 
 
 
-
+<div class="fb-comments" data-href="https://www.villapasila.com/blog/rakennuspaikan-merkinta/" data-width="800" data-numposts="5"></div>
 
 
 

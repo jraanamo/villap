@@ -90,6 +90,7 @@ Kevytsoraharkot oli onneksi melko löyhästi kiinni mutta tuli siinä lämmin ku
 {{< youtube ai64ftQDxuo >}}
 
 
+<div class="fb-comments" data-href="https://www.villapasila.com/blog/vanhan-rakennuksen-purkaminen/" data-width="800" data-numposts="5"></div>
 
 
 
