@@ -41,7 +41,7 @@ Koska sokkelin tilavuus on melko suuri, eli varmaan reilusti yli 200m3 ja tontti
 
 
 
-<div class="fb-comments" data-href="https://www.villapasila.com/blog/sadan-vuoden-perustus/" data-width="800" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://www.villapasila.com/blog/sadan-vuoden-perustus/" data-width="100%" data-numposts="5"></div>
 
 
 
