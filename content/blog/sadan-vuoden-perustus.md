@@ -11,7 +11,7 @@ title = "Sadan vuoden perustus"
 type = "post"
 +++
 
-## 100v
+## Kulut nousussa
 
 Jos olet niin "onnellisessa" asemassa että perustusten tekeminen suoraan kalliolle on se järkevin vaihtoehto niin tulee ottaa huomioon muutama seikka:
 
