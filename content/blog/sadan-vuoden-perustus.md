@@ -9,6 +9,7 @@ featuredpath = "date"
 linktitle = ""
 title = "Sadan vuoden perustus"
 type = "post"
+keywords = ["perustus"]
 +++
 
 ## Kulut nousussa
@@ -36,7 +37,7 @@ Mutta nyt on sentään päästy liikkeelle: kunnan miehet kävivät merkkaamassa
 
 ## Seuraavaksi
 
-Koska sokkelin tilavuus on melko suuri, eli varmaan reilusti yli 200m3 ja tontti on 20km lähimmältä isommalta tieltä, pitää vielä selvittää mitä on vielä tehtävissä täyttökustannusten minimoimiseksi. Alunperin ajatus oli tehdä puhtaasti maanvarainen laatta mutta koska täytöt näyttäisivät kustantavat enemmän kuin maalämpö ja uusi 90" taulutelevisio yhteensä, niin täytyy vielä tutkia päästäänkö pienempiin kokonaiskustannuksiin ontelolaatoilla. Ja saisihan sinne alle pari viinipulloakin piiloon. Onneksi perustusurakoitsija on ymmärtäväinen tälläisille perusteille ja ripeästi selvittää kustannukset ja muut seuraumukset.
+Koska sokkelin tilavuus on melko suuri, eli varmaan reilusti yli 200m3 ja tontti on 20km lähimmältä isommalta tieltä, pitää vielä selvittää mitä on vielä tehtävissä täyttökustannusten minimoimiseksi. Alunperin ajatus oli tehdä puhtaasti maanvarainen laatta mutta koska täytöt näyttäisivät kustantavat enemmän kuin maalämpö ja uusi 90" taulutelevisio yhteensä, niin täytyy vielä tutkia päästäänkö pienempiin kokonaiskustannuksiin ontelolaatoilla. Ja saisihan sinne alle pari viinipulloakin piiloon. Onneksi perustusurakoitsija on ymmärtäväinen tälläisille käänteille ja ripeästi selvittää kustannukset ja muut seuraumukset.
 
 
 <div class="fb-comments" data-href="https://www.villapasila.com/blog/sadan-vuoden-perustus/" data-width="100%" data-numposts="5"></div>
