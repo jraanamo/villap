@@ -1,6 +1,6 @@
 baseurl = "https://www.villapasila.com/"
 languageCode = "fi"
-title = "Villa Pasila - Musta talo kalliolle"
+title = "Villa Pasila - Talo kalliolle"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
@@ -11,7 +11,7 @@ DefaultContentLanguage = "fi"
 
 [params]
   # Sets the meta tag description
-  description          = "Rakennetaan musta talo kalliolle."
+  description          = "Rakennetaan talo kalliolle."
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "Villa Pasila"
   # Sets where "View More Posts" links
@@ -66,7 +66,7 @@ DefaultContentLanguage = "fi"
 [params.intro]
   header    = "Villa Pasila"
 
-  paragraph = "Musta talo kalliolle"
+  paragraph = "Talo kalliolle"
 
   about     = "Tavoittena rakentaa musta, 150m2 puurakenteinen talo, tukevasti suoraan kalliolle - ja vielä kohtuu budjetilla. Runko hankitaan suurelementteinä mutta muuten tehdään pitkälti itse. Tai tälläinen se oli vielä alussa ajatus..."
 
