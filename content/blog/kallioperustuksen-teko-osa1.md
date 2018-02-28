@@ -7,7 +7,7 @@ featured = "kallioperustus-osa1.jpg"
 featuredalt = "Kallioperustus"
 featuredpath = "date"
 linktitle = ""
-title = "Kallioperustus - osa 1"
+title = "Kallioperustusvideo - osa 1"
 type = "post"
 
 +++
