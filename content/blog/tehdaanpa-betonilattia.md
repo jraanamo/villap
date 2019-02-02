@@ -22,7 +22,7 @@ Halusimme lattian joka kestäisi kulutusta, olisi pitkäikäinen ja vieläpä hy
 
 ### HUOM
 
-Kaikki tällä sivulla kirjoitettu perustuu yhteen kokomukseen betonin hionnasta sekä yhden tyyppisen lattia tekemiseen. Teksti saattaa sisältää virheitä, huonoja päätelmiä taikka huonoja käytäntöjä. Oikeinkirjoitus on onnetonta kuten aina. En suosittele aloittamaan betonilattia tekemistä näillä tiedoilla vaan käänny toki ammattilaisen puoleen!
+Kaikki tällä sivulla kirjoitettu perustuu yhteen kokemukseen betonin hionnasta sekä yhden tyyppisen lattia tekemiseen. Teksti saattaa sisältää virheitä, huonoja päätelmiä taikka huonoja käytäntöjä. Oikeinkirjoitus on onnetonta kuten aina. En suosittele aloittamaan betonilattia tekemistä näillä tiedoilla vaan käänny toki ammattilaisen puoleen!
 
 
 ## Toimittajien valinta
