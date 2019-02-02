@@ -2,7 +2,7 @@
 author = "VP"
 categories = ["betonilattia", "betoni", "lattia", "hionta", "timanttihionta", "htc", "konekor", "ultralit", "ruskon betoni", "pintalattiat"]
 date = "2019-01-18T00:00:00Z"
-description = "Betonilattian timanttihionta on suoraviivaista puuhaa joka jokainen voi helposti suorittaa itse ja säästää rahaa. Tai ei."
+description = "Betonilattian timanttihionta on suoraviivaista puuhaa jonka jokainen voi helposti suorittaa itse ja säästää rahaa. Tai ei."
 featured = "htc420vs.jpeg"
 featuredalt = "Betonilattia"
 featuredpath = "date"
