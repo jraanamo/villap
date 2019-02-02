@@ -202,6 +202,7 @@ Olisi tietysti kiinnostava nähdä kun hionta onnistuu kuivana mutta jos ei, nii
 - Ja hyvä valaistus kattoon ettei tarvi tihrustella.
 
 
+<div class="fb-comments" data-href="https://www.villapasila.com/blog/tehdaanpa-betonilattia/" data-width="100%" data-numposts="5"></div>
 
 
 
